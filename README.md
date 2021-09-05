@@ -17,6 +17,7 @@ I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science
 This library makes it possible to design the information search algorithm such as the Game AI, web crawlers, or Robotics. But this library provides components for designers, not for end-users of state-of-the-art black boxes.
 
 <img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="256" />
+Deep Reinforcement Learning (Deep Q-Network: DQN) to solve Maze.
 <img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="256" />
 
 
