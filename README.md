@@ -4,7 +4,7 @@
 
 I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science at the University of Robert Gordon Aberdeen. And BCS certificate level. I enjoy learning, build projects, and coding like Python, C, C++. I also enjoy doing Robotic projects and Machine learning.
 
-##Skills and Experience
+## Skills and Experience
 🐍 Python
 🌟Git/C/C++
 💻Java/Arduino
