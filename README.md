@@ -27,7 +27,7 @@ This library makes it possible to design the information search algorithm such a
 
 Simple Line following robot
 
-<img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="500" />
+<img src="https://github.com/pininduwk/pininduwk/blob/main/lineFollower.gif" width="500" />
 
 
 
