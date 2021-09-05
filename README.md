@@ -9,6 +9,10 @@ I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science
 🌟Git/C/C++
 💻Java/Arduino
 
+## Exaple of Work
+
+<img scr="https://github.com/pininduwk/pininduwk/blob/main/README.md" width="256" />
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pininduwk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinindu__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pininduW)  
 
