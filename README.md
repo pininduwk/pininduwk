@@ -16,8 +16,8 @@ I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science
 
 This library makes it possible to design the information search algorithm such as the Game AI, web crawlers, or Robotics. But this library provides components for designers, not for end-users of state-of-the-art black boxes.
 
-<img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="500" />
-<img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="500" />
+<img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="400" />
+<img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="400" />
  
  
 ### Quantum computing 
@@ -30,13 +30,13 @@ Using quirk open source doing,
 ⁕Up to 16 qubits.
 
 
-<img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="500" />
+<img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="400" />
 
 ## Robotics 
 
 Simple Line following robot
 
-<img src="https://github.com/pininduwk/pininduwk/blob/main/lineFollower.gif" width="500" />
+<img src="https://github.com/pininduwk/pininduwk/blob/main/lineFollower.gif" width="400" />
 
 
 
