@@ -1,6 +1,6 @@
 ### Hi there 👋, Pinindu Wekunagoda
 #### Artificial intelligence and Data Science
-![Artificial intelligence and Data Science](https://pbs.twimg.com/profile_banners/1432928994714787842/1630864189/600x200)
+![Artificial intelligence and Data Science](https://github.com/pininduwk/pininduwk/blob/main/Pinindu%20Wekunagoda%20(1).png)
 
 I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science at the University of Robert Gordon Aberdeen. And BCS certificate level. I enjoy learning, build projects, and coding like Python, C, C++. I also enjoy doing Robotic projects and Machine learning.
 
