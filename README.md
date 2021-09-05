@@ -21,6 +21,15 @@ This library makes it possible to design the information search algorithm such a
  
  
 ### Quantum computing 
+Using quirk open source doing,
+
+⁕Drag-and-drop circuit editing.
+⁕Reacts, simulates, and animates in real time.
+⁕Inline state displays.
+⁕Bookmarkable circuits.
+⁕Up to 16 qubits.
+
+
 <img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="500" />
 
 ## Robotics 
