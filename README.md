@@ -21,6 +21,7 @@ This library makes it possible to design the information search algorithm such a
  
  
 ### Quantum computing 
+<img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="256" />
 
 
 
