@@ -11,7 +11,7 @@ I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science
 
 ## Exaple of Work
 
-https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif
+<img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="256" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pininduwk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinindu__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pininduW)  
