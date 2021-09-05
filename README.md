@@ -17,6 +17,7 @@ I'm Pinindu from Sri Lanka, and I study Artificial intelligence and Data Science
 This library makes it possible to design the information search algorithm such as the Game AI, web crawlers, or Robotics. But this library provides components for designers, not for end-users of state-of-the-art black boxes.
 
 <img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="256" />
+<img src="https://github.com/pininduwk/pininduwk/blob/main/DQN_single_agent_goal_compressed-loop.gif" width="256" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pininduwk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinindu__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pininduW)  
