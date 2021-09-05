@@ -23,6 +23,12 @@ This library makes it possible to design the information search algorithm such a
 ### Quantum computing 
 <img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="500" />
 
+## Robotics 
+
+Simple Line following robot
+
+<img src="https://github.com/pininduwk/pininduwk/blob/main/usage-quirk.gif" width="500" />
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pininduwk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinindu__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pininduW)  
