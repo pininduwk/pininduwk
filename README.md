@@ -1,4 +1,4 @@
-![Artificial intelligence and Data Science](https://github.com/pininduwk/pininduwk/blob/main/Pinindu%20Wekunagoda%20(1).png)
+![Artificial intelligence and Data Science](https://github.com/pininduwk/pininduwk/blob/main/Pinindu%20Wekunagoda%20(2).png)
   
   # Pinindu Wekunagoda 
 
