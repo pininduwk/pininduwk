@@ -36,6 +36,14 @@ Here are a few examples of projects I have worked on that I can share:
 - Sentiment Analysis: Developed a machine learning model using NLTK and scikit-learn to perform sentiment analysis on customer reviews for a hospitality client. The model was able to accurately classify reviews as positive, negative, or neutral.
 - Language Translation: Developed a neural machine translation model using TensorFlow to translate English text to French for a language learning app. The model was able to accurately translate various types of text, including short phrases and full sentences.
 
+- Speech Recognition: I built a speech recognition system that uses a combination of convolutional and recurrent neural networks to transcribe spoken words into text.
+
+- Music Genre Classification: I trained a deep neural network to classify music into different genres based on the audio waveform.
+
+- Audio Fingerprinting: I developed an audio fingerprinting system that uses the acoustic characteristics of a song to identify it, even if it has been modified or distorted.
+
+- Sound Synthesis: I created a program that synthesizes new sounds by combining and manipulating existing sounds.
+
 If you have a specific project in mind or would like to learn more about my experience and expertise, please don't hesitate to contact me. I am always happy to discuss new opportunities and explore how we can work together to achieve your goals.
 
 ## Contact Me
