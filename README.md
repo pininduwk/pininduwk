@@ -6,7 +6,6 @@
 
 ### Computer Vision
 
-
 I have extensive experience in computer vision and have worked on several projects related to object detection, image classification, and segmentation. Some of the tools and libraries I use in my work include:
 
 - OpenCV - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
