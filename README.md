@@ -1,7 +1,6 @@
 ![Artificial intelligence and Data Science](https://github.com/pininduwk/pininduwk/blob/main/Pinindu%20Wekunagoda%20(2).png)
   
   
- 
 <h3 align="center">I am a freelance machine learning specialist, specializing in computer vision and natural language processing (NLP). With over one year of experience in the industry, I have worked on several projects for various clients and have delivered high-quality solutions that meet their specific requirements.</h3>
 
 ## Skills and Expertise
